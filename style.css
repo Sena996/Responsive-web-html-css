@@ -194,3 +194,40 @@
 {
     opacity: 1;
 }
+
+.testimonial
+{
+    position: relative;
+    padding: 100px;
+    background: #12222d;
+    text-align: center;
+}
+.testimonial .container
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+    flex-wrap: wrap;
+}
+.testimonial .container .content8x
+{
+    background: #fff;
+    padding: 60px 50px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+}
+.testimonial .container .content8x p
+{
+    font-style: italic;
+}
+.testimonial .container .content8x h3
+{
+    width: 100%;
+    text-align: end;
+    font-weight: 500;
+    color: #3f8ffc;
+}
