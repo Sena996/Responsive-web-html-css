@@ -144,3 +144,27 @@
     font-size: 20px;
     letter-spacing: 1px;
 }
+
+.technology
+{
+    background: #3f8ffc;
+    width: 100%;
+    padding: 100px;
+    padding-top: 300px;
+    margin-top: -300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.technology .content8x
+{
+    max-width: 800px;
+}
+.technology .imgBx
+{
+    max-width: 250px;
+}
+.technology .imgBx img
+{
+    max-width: 100%;
+}
