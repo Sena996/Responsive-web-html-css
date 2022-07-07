@@ -8,6 +8,10 @@
     position: relative;
     font-family: 'Poppins', sans-serif; 
 }
+body
+{
+    overflow-x: hidden;
+}
 .banner
 {
     position: relative;
